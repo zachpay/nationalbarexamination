@@ -12,5 +12,5 @@ description: 法考 司考 纳兰扎克 纳兰扎克考试笔记
 
 ### 欢迎在评论区提出建议、指正以及补充。
 
-### 项目链接：[_**https://zachnaran.gitbook.io/nationalbarexamination**_](https://zachnaran.gitbook.io/nationalbarexamination)_\*\*\*\*_
+### 
 
