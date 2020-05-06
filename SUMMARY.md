@@ -1,6 +1,10 @@
 # Table of contents
 
-* [全国法律职业资格考试笔记](README.md)
+* [主页](README.md)
+
+## 前言
+
+* [写在前面的话](qian-yan/xie-zai-qian-mian-de-hua.md)
 
 ## 刑法
 
